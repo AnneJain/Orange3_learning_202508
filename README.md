@@ -1,2 +1,2 @@
 # Orange3_learning_202508
-學習使用Orange3分析工具
+產投_Orange3程式生成AI應用實務班
